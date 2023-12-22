@@ -22,7 +22,7 @@
  * THE SOFTWARE.
  */
 
-package test;
+package best;
 
 import org.junit.Test;
 
