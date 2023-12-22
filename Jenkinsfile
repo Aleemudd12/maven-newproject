@@ -6,7 +6,7 @@ pipeline {
         maven "maven"
     }
 
-    stages {
+    tages {
         stage('Build') {
             steps {
                 // Get some code from a GitHub repository
